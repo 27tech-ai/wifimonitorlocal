@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Traffic Monitor",
+  "description": "Real-time local network device discovery and Wi-Fi traffic monitor with bandwidth analytics, router/OpenWrt integration, and privacy-first local metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
